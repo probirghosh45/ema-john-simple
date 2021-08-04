@@ -1,0 +1,22 @@
+.shopping{
+    display: flex;
+    
+}
+
+.product__section{
+    display: flex;
+    width: 70%;
+    border-right: 2px solid darkmagenta;
+    border-bottom: 2px solid darkmagenta;
+    padding: 15px;
+}
+
+.product__section img{
+    padding-right: 10px;
+}
+
+/* h1{
+    vertical-align: middle;
+    align-items: center;
+    justify-content: center;
+} */
